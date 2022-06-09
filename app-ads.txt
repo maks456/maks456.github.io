@@ -1,11 +1,11 @@
-google.com, 725234458629715, DIRECT, f08c47fec0942fa0
+
 #Updated May 30th, 2022
 #Appodeal
 appodeal.com, 154053, DIRECT
 #BidMachine
 bidmachine.io, 154053, DIRECT
 #AdMob
-#Copy Admob's app-ads.txt entry from your Admob dashboard
+google.com, 725234458629715, DIRECT, f08c47fec0942fa0
 google.com, pub-4272971530084173, RESELLER, f08c47fec0942fa0
 #Notsy
 google.com, pub-4272971530084173, RESELLER, f08c47fec0942fa0
